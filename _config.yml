@@ -3,6 +3,10 @@ title:            'State of Connecticut'
 tagline:          'Data Sharing Playbook'
 description:      'Connecticut Data Playbook'
 
+remote_theme: pmarsceill/just-the-docs
+plugins:
+  - jekyll-default-layout
+  
 author:
   name:           'State of Connecticut'
   url:            https://github.com/CTOpenData/data-sharing-playbook
