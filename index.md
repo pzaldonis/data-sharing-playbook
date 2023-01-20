@@ -48,19 +48,19 @@ The process for sharing data varies by agency. The strategies outlined in the [P
 ## How to use this playbook
 
 To learn how to request data from one or more state agencies, refer to these strategies:
- * [Preparing a successful data request](/data-sharing-playbook/preparing-a-successful-data-request/)
+ * [Preparing a successful data request](/data-sharing-playbook/preparing-a-successful-data-request)
  * [Requesting data through P20 WIN](/data-sharing-playbook/preparing-a-successful-data-request.html#requesting-data-through-p20-win)
 
 If you represent an agency who receives data requests, the sections below describe best practices for enabling data sharing:
  * [Develop a data request process](/data-sharing-playbook/enabling-data-sharing.html#develop-a-data-request-process)
- * [Enabling data sharing](/enabling-data-sharing)
- * [Safeguarding data](/safeguarding-data)
- * [Responding to data requests](/responding-to-data-requests)
+ * [Enabling data sharing](/data-sharing-playbook/enabling-data-sharing)
+ * [Safeguarding data](/data-sharing-playbook/safeguarding-data)
+ * [Responding to data requests](/data-sharing-playbook/responding-to-data-requests)
  * [Enabling data sharing as a member of P20 WIN](/data-sharing-playbook/enabling-data-sharing.html#enabling-data-sharing-as-a-member-of-p20-win)
 
 To learn about transferring data or linking data from different sources, refer to these strategies:
- * [Transferring data](/transferring-data/)
- * [Linking datasets](/linking-datasests/)
+ * [Transferring data](/data-sharing-playbook/transferring-data)
+ * [Linking datasets](/data-sharing-playbook/linking-datasests)
  * [Transferring and linking data through P20 WIN](/data-sharing-playbook/linking-datasests.html#transferring-and-linking-data-in-p20-win)
 
 ## About the data sharing playbook
