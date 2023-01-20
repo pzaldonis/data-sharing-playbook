@@ -19,7 +19,7 @@ Although the roles below are described separately, the same person may exercise 
 
 Agency data officers serve as the main contact person for inquiries, requests, or concerns regarding access to the data of an agency. The agency data officer, in consultation with the Chief Data Officer and the agency head, establishes procedures to ensure that the agency complies with requests for data in an appropriate and prompt manner.
 
-[Section 4-67p of the Connecticut General Statutes](https://www.cga.ct.gov/current/pub/chap_050.htm#sec_4-67p) defines the role and responsibilities of agency data officers, and a list of agency data officers is published on the [Connecticut Open Data Portal](https://data.ct.gov/Government/Agency-Data-Officers/ti3z-strx).
+[Section 4-67p of the Connecticut General Statutes](https://www.cga.ct.gov/current/pub/chap_050.htm#sec_4-67p){:target="_blank"} defines the role and responsibilities of agency data officers, and a list of agency data officers is published on the [Connecticut Open Data Portal](https://data.ct.gov/Government/Agency-Data-Officers/ti3z-strx){:target="_blank"}.
 
 ### Data owner
 
@@ -48,7 +48,7 @@ A publicly-available data dictionary helps requesters understand what data your 
  
 ### P20 WIN Data Dictionary and metadata policies
 
-P20 WIN has a [data dictionary](https://portal.ct.gov/OPM/P20Win/Request-Data) containing the elements available for request. Participating agencies provide updates each year in accordance with the [P20 WIN metadata policies and processes](https://p20-win.github.io/Data-Governance-Manual/data-policies/). 
+P20 WIN has a [data dictionary](https://ctopendata.shinyapps.io/p20_win_data_dictionary/){:target="_blank"} containing the elements available for request. Participating agencies provide updates each year in accordance with the [P20 WIN metadata policies and processes](https://p20-win.github.io/Data-Governance-Manual/data-policies/){:target="_blank"}. 
 
 ## Document metadata.
 
@@ -69,7 +69,7 @@ When tracking metadata, it’s important to:
 
 ## Update Connecticut’s High Value Data Inventory.
 
-[Connecticut’s High Value Data Inventory](https://data.ct.gov/Government/2020-CT-Data-Catalog/52ei-h2pn) is a data catalog that highlights general information about high-value datasets possessed by state agencies. The annual maintenance of the high value data inventories is required by C.G.S. § 4-67p. At the end of each year, OPM will reach out to agency data officers to provide updates by December 31 of that year. By keeping your agency’s datasets up to date in the catalog, you help other agencies and the public understand what data your agency owns and who to contact for more information.
+[Connecticut’s High Value Data Inventory](https://data.ct.gov/Government/2020-CT-Data-Catalog/52ei-h2pn){:target="_blank"} is a data catalog that highlights general information about high-value datasets possessed by state agencies. The annual maintenance of the high value data inventories is required by C.G.S. § 4-67p. At the end of each year, OPM will reach out to agency data officers to provide updates by December 31 of that year. By keeping your agency’s datasets up to date in the catalog, you help other agencies and the public understand what data your agency owns and who to contact for more information.
 
 To update the inventory, email both [Scott Gaul](mailto:scott.gaul@ct.gov) and [Pauline Zaldonis](mailto:pauline.zaldonis@ct.gov) with the subject line “CT High Value Data Inventory Change Request.”
 
@@ -95,7 +95,7 @@ First, be open about the limitations of the agency’s data to reduce the likeli
 
 A clearly documented data request process can facilitate successful requests. This section covers some of the supporting documents to develop as part of a comprehensive data request process.
 
-Remember that the data request process must abide by the regulations and laws that apply to each dataset. For more detailed information, refer to [Establish a privacy policy](/data-sharing-playbook/safeguarding-data.html#establish-a-privacy-policy) and the report on [Legal Issues in Interagency Data Sharing](https://portal.ct.gov/-/media/CT-Data/PA-19153-Legal-Issues-in-Interagency-Data-Sharing-Report-11520.pdf), including the appendices reviewing state and federal laws and regulations.
+Remember that the data request process must abide by the regulations and laws that apply to each dataset. For more detailed information, refer to [Establish a privacy policy](/data-sharing-playbook/safeguarding-data.html#establish-a-privacy-policy) and the report on [Legal Issues in Interagency Data Sharing](https://portal.ct.gov/-/media/CT-Data/PA-19153-Legal-Issues-in-Interagency-Data-Sharing-Report-11520.pdf){:target="_blank"}, including the appendices reviewing state and federal laws and regulations.
 
 ### Request form
 
@@ -113,8 +113,8 @@ Ensure that the data requester answers the questions below in order to evaluate 
 
 #### Examples
 
- * [Vital Records Request Form for Non-confidential data](https://portal.ct.gov/-/media/Departments-and-Agencies/DPH/hisr/VR/GENERAL-VR-DATASET-REQUEST-FORM-vSep2019.docx?la=en)
- * [DCF-5101 ORE Data Request Form](https://portal.ct.gov/-/media/DCF/Policy/NEW-fillin-Forms/DCF-5101-10-31-19.pdf)
+ * [Vital Records Request Form for Non-confidential data](https://portal.ct.gov/-/media/Departments-and-Agencies/DPH/hisr/VR/GENERAL-VR-DATASET-REQUEST-FORM-vSep2019.docx?la=en){:target="_blank"}
+ * [DCF-5101 ORE Data Request Form](https://portal.ct.gov/-/media/DCF/Policy/NEW-fillin-Forms/DCF-5101-10-31-19.pdf){:target="_blank"}
  
 ### Flow diagram or detailed narrative of the steps
 
@@ -122,16 +122,16 @@ It’s important to have a way to illustrate or describe the data sharing proces
 
 #### Examples
 
- * [Vital Records Data Request Process](https://ctopendata.github.io/data-sharing-playbook/assets/documents/Vital-Records-Flow.pdf)
- * [P20 WIN Data Request Process](https://portal.ct.gov/OPM/P20Win/Request-Data)
+ * [Vital Records Data Request Process](https://ctopendata.github.io/data-sharing-playbook/assets/documents/Vital-Records-Flow.pdf){:target="_blank"}
+ * [P20 WIN Data Request Process](https://portal.ct.gov/datapolicy/Knowledge-Base/Articles/Request-Data?language=en_US){:target="_blank"}
  
 ### Data dictionary
 
-A data dictionary describes the agency’s data. (See [Create and publish a data dictionary](/data-sharing-playbook/print#create-and-publish-a-data-dictionary).)
+A data dictionary describes the agency’s data. (See [Create and publish a data dictionary](/data-sharing-playbook/enabling-data-sharing.html#create-and-publish-a-data-dictionary).)
 
 #### Examples
 
- * [P20 WIN Data Dictionary](https://portal.ct.gov/-/media/OPM/P20Win/Reports/P20WIN_Data_Dictionary.xlsx)
+ * [P20 WIN Data Dictionary](https://ctopendata.shinyapps.io/p20_win_data_dictionary/){:target="_blank"}
 
 ### Data request fees
 
@@ -143,6 +143,6 @@ A request fee schedule communicates the cost of requesting data. Each agency may
  
 ## Enabling data sharing as a member of P20 WIN
 
-Connecticut state agencies can better leverage data for decision-making through P20 WIN’s data governance framework. P20 WIN uses an [enterprise framework](https://portal.ct.gov/-/media/OPM/P20Win/NEW-Governance-Agreements/P20WIN-EMOU-SignedParticipatingAgencies-09092021.pdf) to facilitate data sharing across participating agencies. By participating in the data governance structure of P20 WIN, state agencies can enable the secure sharing of data to address critical policy questions in the state. 
+Connecticut state agencies can better leverage data for decision-making through P20 WIN’s data governance framework. P20 WIN uses an [enterprise framework](https://portal.ct.gov/-/media/OPM/P20Win/NEW-Governance-Agreements/P20WIN-EMOU-SignedParticipatingAgencies-09092021.pdf){:target="_blank"} to facilitate data sharing across participating agencies. By participating in the data governance structure of P20 WIN, state agencies can enable the secure sharing of data to address critical policy questions in the state. 
 
 If your agency is not yet a participating agency in P20 WIN, contact [Katie Breslin](mailto:katie.breslin@ct.gov), Outreach and Engagement Coordinator, to learn about how your agency can join P20 WIN. 

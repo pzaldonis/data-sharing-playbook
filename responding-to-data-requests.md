@@ -18,7 +18,7 @@ Establish a process for how key questions are asked, answered, and documented. W
  * Who will have access to the data?
  * What is the specific data they are requesting and what are the specific parameters?
 
-If the requester is planning to combine data with another dataset, this will require careful review and consideration from both teams. This could be a complex process, and we’ve included some discussion of data linking in the [Linking Datasets](/data-sharing-playbook/linking-datasests/) section.
+If the requester is planning to combine data with another dataset, this will require careful review and consideration from both teams. This could be a complex process, and we’ve included some discussion of data linking in the [Linking Datasets](/data-sharing-playbook/linking-datasets/) section.
 
 ## Identify the type of legal data sharing agreement you will need.
 
@@ -36,7 +36,7 @@ There are multiple types of data sharing mechanisms available to state agencies.
 
 ### But first: Do you even need an agreement?
 
-Sharing data that is open to the public does not require an agreement. If the requesting party doesn’t need to identify specific individuals, it may be preferable to release the data to the public by publishing it on the Connecticut Open Data Portal (data.ct.gov). To publish data on the open data portal, refer to the [publication guidelines](https://portal.ct.gov/CTData/Content/Agency-Guidance) developed by OPM. 
+Sharing data that is open to the public does not require an agreement. If the requesting party doesn’t need to identify specific individuals, it may be preferable to release the data to the public by publishing it on the Connecticut Open Data Portal (data.ct.gov). To publish data on the open data portal, refer to the [publication guidelines](https://ctopendata.github.io/open-data-handbook/data-publication-steps/0_data_publication_steps_intro.html){:target="_blank"} in the Open Data Handbook developed by OPM. 
 
 ## Common types of agreements
 
@@ -99,9 +99,9 @@ A non-disclosure agreement is a binding contract between two or more parties tha
 
 ## P20 WIN data sharing agreements 
 
-The P20 WIN [Enterprise Memorandum of Understanding](https://portal.ct.gov/-/media/OPM/P20Win/NEW-Governance-Agreements/P20WIN-EMOU-SignedParticipatingAgencies-09092021.pdf) (Enterprise MOU) outlines the guidelines for data sharing, governance structure, and confidentiality and security requirements for P20 WIN. The Enterprise MOU is signed by all agencies participating in P20 WIN. 
+The P20 WIN [Enterprise Memorandum of Understanding](https://portal.ct.gov/-/media/OPM/P20Win/NEW-Governance-Agreements/P20WIN-EMOU-SignedParticipatingAgencies-09092021.pdf){:target="_blank"} (Enterprise MOU) outlines the guidelines for data sharing, governance structure, and confidentiality and security requirements for P20 WIN. The Enterprise MOU is signed by all agencies participating in P20 WIN. 
 
-[Data Sharing Agreements](https://portal.ct.gov/-/media/OPM/P20Win/NEW-Governance-Agreements/P20-WIN-DSA-template.pdf) are signed by Participating Agencies, the Data Integration Hub, and Data Recipients for specific data requests. This agreement outlines the responsibilities of all parties, data users, cell suppression policies, fees, and Exhibits. Exhibits include:
+[Data Sharing Agreements](https://portal.ct.gov/-/media/OPM/P20Win/NEW-Governance-Agreements/P20-WIN-DSA-template.pdf){:target="_blank"} are signed by Participating Agencies, the Data Integration Hub, and Data Recipients for specific data requests. This agreement outlines the responsibilities of all parties, data users, cell suppression policies, fees, and Exhibits. Exhibits include:
 
  * Exhibit A - Data Sharing Request Form and requested variables;
  * Exhibit B - User Acknowledgement Form;
@@ -112,6 +112,6 @@ The P20 WIN [Enterprise Memorandum of Understanding](https://portal.ct.gov/-/med
 
 ### Footnotes
 
-[^1]: [The Practical Playbook: Building Multisector Partnerships That Work](https://www.practicalplaybook.org/)
-[^2]: [Legal Guide to Administrative Data Sharing for Economic and Workforce Development](http://www.statedatasharing.org/data-sharing/2018-03_-_SDS_Legal_Guide_to_Administrative_Data_Sharing_for_Economic_and_Workforce_Development.pdf), State Data Sharing Initiative, March 2018
-[^3]: [Results for America 2019 State Standard of Excellence](https://2019state.results4america.org/state-standard-of-excellence/data-policies--agreements.html)
+[^1]: [The Practical Playbook: Building Multisector Partnerships That Work](https://www.practicalplaybook.org/){:target="_blank"}
+[^2]: [Legal Guide to Administrative Data Sharing for Economic and Workforce Development](http://www.statedatasharing.org/data-sharing/2018-03_-_SDS_Legal_Guide_to_Administrative_Data_Sharing_for_Economic_and_Workforce_Development.pdf){:target="_blank"}, State Data Sharing Initiative, March 2018
+[^3]: [Results for America 2019 State Standard of Excellence](https://2019state.results4america.org/state-standard-of-excellence/data-policies--agreements.html){:target="_blank"}

@@ -69,9 +69,9 @@ To encrypt a file:
 
 The Department of Administrative Services Bureau of Information Technology Solutions (BITS) offers Executive Branch agencies an Enterprise Secure File Transport (SFT) Service for agencies that need to share sensitive content between other agencies, or business partners in a secure manner. 
 
-More information can be found on the DAS website [here](https://portal.ct.gov/DAS/BEST/Planning-and-Architecture/Enterprise-Secure-File-Transport-Services). The website states that this service offers the following:
+More information can be found on the DAS website [here](https://portal.ct.gov/DAS/BEST/Planning-and-Architecture/Enterprise-Secure-File-Transport-Services){:target="_blank"}. The website states that this service offers the following:
 
- * Powered by the [Axway Secure Transport](https://www.axway.com/en/enterprise-solutions/secure-transport#tablist1-tab1) solution, an industry leader in managed file transport solutions.
+ * Powered by the [Axway Secure Transport](https://www.axway.com/en/enterprise-solutions/secure-transport#tablist1-tab1){:target="_blank"} solution, an industry leader in managed file transport solutions.
  * Provides for the exchange of file based content that ensures protection and encryption in transit and at rest.
  * Meets the federal government’s strict security compliance requirements,
  * Supports the use of a web-based file management environment as well as traditional secure file transport clients (e.g., FileZilla),

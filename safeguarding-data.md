@@ -50,7 +50,7 @@ State agencies need to understand the laws that govern each dataset based on its
  * How data are transferred
  * How data are disposed of
 
-For more information about applicable federal and state laws, refer to the [Legal Issues in Interagency Data Sharing report](https://portal.ct.gov/-/media/CT-Data/PA-19153-Legal-Issues-in-Interagency-Data-Sharing-Report-11520.pdf) and accompanying appendices.
+For more information about applicable federal and state laws, refer to the [Legal Issues in Interagency Data Sharing report](https://portal.ct.gov/-/media/CT-Data/PA-19153-Legal-Issues-in-Interagency-Data-Sharing-Report-11520.pdf){:target="_blank"} and accompanying appendices.
 
 ## Define acceptable use standards.
 

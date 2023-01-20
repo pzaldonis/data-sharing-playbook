@@ -36,13 +36,13 @@ In the age of “big data” it may be tempting to collect as much information a
 
 ## Identify the data.
 
-Before you can request data, you will need to identify the agency and program that’s likely to have the data you are looking for. This data may be found in [Connecticut’s High Value Data Inventory](https://data.ct.gov/Government/2020-CT-Data-Catalog/52ei-h2pn), which lists the high value data maintained by each executive branch agency. The high value data inventory should provide the name of the data owner who you can contact about the data you are interested in. 
+Before you can request data, you will need to identify the agency and program that’s likely to have the data you are looking for. This data may be found in [Connecticut’s High Value Data Inventory](https://data.ct.gov/Government/2020-CT-Data-Catalog/52ei-h2pn){:target="_blank"}, which lists the high value data maintained by each executive branch agency. The high value data inventory should provide the name of the data owner who you can contact about the data you are interested in. 
 
-If you can’t find the data you are looking for in the high value data inventory, you can reach out to the [Agency Data Officer](https://data.ct.gov/Government/Agency-Data-Officers/ti3z-strx) at the agency that maintains the data you need. Agency data officers are the point people for data requests at each executive branch agency and can help direct your request. 
+If you can’t find the data you are looking for in the high value data inventory, you can reach out to the [Agency Data Officer](https://data.ct.gov/Government/Agency-Data-Officers/ti3z-strx){:target="_blank"} at the agency that maintains the data you need. Agency data officers are the point people for data requests at each executive branch agency and can help direct your request. 
 
 Outside of the governance structure of P20 WIN, each agency has its own process for managing data requests. The agency data officer should be able to provide more information about how data requests are handled at their agency and what next steps you should follow for requesting the data. 
 
-To request data through P20 WIN, review the [Data Dictionary](https://portal.ct.gov/-/media/OPM/P20Win/Reports/P20WIN_Data_Dictionary.xlsx) to identify the data that you will need for your analysis. 
+To request data through P20 WIN, review the [Data Dictionary](https://ctopendata.shinyapps.io/p20_win_data_dictionary/){:target="_blank"} to identify the data that you will need for your analysis. 
 
 ## Explain your objective and the details of your plan clearly. 
 
@@ -72,7 +72,7 @@ Ensure that the data owner can fulfill the data request in a reasonable timefram
 
 ## Requesting data through P20 WIN
 
-P20 WIN is the state longitudinal data system and is used to answer policy questions, fulfill federal and state reporting requirements, support program review and evaluation, and support research and analysis on a variety of topics. The P20 WIN system has its own [data request process](https://portal.ct.gov/OPM/P20Win/Request-Data) for requesting data from two or more participating agencies.
+P20 WIN is the state longitudinal data system and is used to answer policy questions, fulfill federal and state reporting requirements, support program review and evaluation, and support research and analysis on a variety of topics. The P20 WIN system has its own [data request process](https://portal.ct.gov/datapolicy/Knowledge-Base/Articles/Request-Data){:target="_blank"} for requesting data from two or more participating agencies.
 
 Participating Agencies that are part of P20 WIN include: 
 
@@ -88,7 +88,7 @@ Participating Agencies that are part of P20 WIN include:
  * Department of Children and Families (DCF)
  * Connecticut Coalition to End Homelessness (CCEH)
 
-Requests for data through P20 WIN should include data from two or more participating agencies and should align with either a participating agency’s individual issue priorities or the [P20 WIN Learning Agenda](https://portal.ct.gov/OPM/P20Win/Learning-Agenda). 
+Requests for data through P20 WIN should include data from two or more participating agencies and should align with either a participating agency’s individual issue priorities or the [P20 WIN Learning Agenda](https://portal.ct.gov/datapolicy/Knowledge-Base/Articles/Learning-Agenda){:target="_blank"}. 
 
 To submit a data request through P20 WIN, the requestor should follow the steps summarized below. 
 
@@ -97,10 +97,10 @@ To submit a data request through P20 WIN, the requestor should follow the steps 
 
 Once a data request has been submitted: 
 
-1. [Data Governing Board](https://portal.ct.gov/opm/p20win/governance) members whose agency’s data are included in the data request review and determine if the requested data may be shared. The request is then approved, rejected, or recommended to be modified.
+1. [Data Governing Board](https://portal.ct.gov/opm/p20win/governance){:target="_blank"} members whose agency’s data are included in the data request review and determine if the requested data may be shared. The request is then approved, rejected, or recommended to be modified.
 2. The Outreach and Engagement Coordinator communicates the decision from the Data Governing board to the data requestor. 
 3. If the request is approved, the Outreach and Engagement Coordinator drafts the data sharing agreement, circulates for signatures, and collects confidentiality and related documents according to the data request. 
 4. P20 WIN staff and data stewards coordinate the production and secure transfer of data files for the data matching process to the data requestor. 
 5. The data requestor conducts their analysis using the data files provided.
 
-More information about the P20 WIN data request process can be found on the [P20 WIN website](https://portal.ct.gov/OPM/P20Win/Request-Data) and, with additional detail, in the [P20 WIN Data Governance Manual](https://p20-win.github.io/Data-Governance-Manual/). 
+More information about the P20 WIN data request process can be found on the [P20 WIN website](https://portal.ct.gov/datapolicy/Knowledge-Base/Articles/Request-Data){:target="_blank"} and, with additional detail, in the [P20 WIN Data Governance Manual](https://p20-win.github.io/Data-Governance-Manual/){:target="_blank"}. 
