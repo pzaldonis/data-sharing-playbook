@@ -95,7 +95,7 @@ First, be open about the limitations of the agency’s data to reduce the likeli
 
 A clearly documented data request process can facilitate successful requests. This section covers some of the supporting documents to develop as part of a comprehensive data request process.
 
-Remember that the data request process must abide by the regulations and laws that apply to each dataset. For more detailed information, refer to [Establish a privacy policy](/data-sharing-playbook/safeguarding-data/#establish-a-privacy-policy) and the report on [Legal Issues in Interagency Data Sharing](https://portal.ct.gov/-/media/CT-Data/PA-19153-Legal-Issues-in-Interagency-Data-Sharing-Report-11520.pdf), including the appendices reviewing state and federal laws and regulations.
+Remember that the data request process must abide by the regulations and laws that apply to each dataset. For more detailed information, refer to [Establish a privacy policy](/data-sharing-playbook/safeguarding-data.html#establish-a-privacy-policy) and the report on [Legal Issues in Interagency Data Sharing](https://portal.ct.gov/-/media/CT-Data/PA-19153-Legal-Issues-in-Interagency-Data-Sharing-Report-11520.pdf), including the appendices reviewing state and federal laws and regulations.
 
 ### Request form
 

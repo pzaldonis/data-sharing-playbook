@@ -7,11 +7,11 @@ nav_order: 3
 
 # Responding to Data Requests
 
-Having an established protocol for responding to a request for data will save you time and effort (see [Develop a data request process](/data-sharing-playbook/enabling-data-sharing/#develop-a-data-request-process)). The following suggestions will help you respond smoothly to different types of requests.
+Having an established protocol for responding to a request for data will save you time and effort (see [Develop a data request process](/data-sharing-playbook/enabling-data-sharing.html#develop-a-data-request-process)). The following suggestions will help you respond smoothly to different types of requests.
 
 ## Ask key questions up front.
 
-Establish a process for how key questions are asked, answered, and documented. We’ve included a detailed list of questions to ask in the section on [developing a request process](/data-sharing-playbook/enabling-data-sharing/#develop-a-data-request-process), including:
+Establish a process for how key questions are asked, answered, and documented. We’ve included a detailed list of questions to ask in the section on [developing a request process](/data-sharing-playbook/enabling-data-sharing.html#develop-a-data-request-process), including:
 
  * What is the purpose of the request?
  * How does the requester plan to use the data?

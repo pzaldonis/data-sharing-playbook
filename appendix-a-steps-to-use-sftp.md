@@ -7,7 +7,7 @@ nav_order: 2
 
 # Steps to Use SFTP to Securely Transfer Files
 
-DAS/BEST offers an Enterprise Secure File Transport (SFT) Service for executive branch agencies, as described in the [Transferring Data](/data-sharing-playbook/transferring-data/#enterprise-secure-file-transport-services) section. The SFT service can be used to securely transfer data between state agencies, or other business partners, in a secure manner. The steps for using the SFT service to transfer data are described below.
+DAS/BEST offers an Enterprise Secure File Transport (SFT) Service for executive branch agencies, as described in the [Transferring Data](/data-sharing-playbook/transferring-data.html#enterprise-secure-file-transport-services) section. The SFT service can be used to securely transfer data between state agencies, or other business partners, in a secure manner. The steps for using the SFT service to transfer data are described below.
 
 1. Identify the SFT Liaison at your agency. SFTP service is available to the executive branch, constitutional offices, and quasi-public agencies and their business partners. Agencies who have enrolled in the service should have appointed an SFT Liaison, who is responsible for administering the SFT service at each agency. If you are not sure who the SFT Liaison is at your agency, your IT office might be able to help find them.
 
