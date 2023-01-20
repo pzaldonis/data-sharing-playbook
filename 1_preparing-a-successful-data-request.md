@@ -1,8 +1,11 @@
 ---
 layout: page
 title: Preparing a Successful Data Request
-nav_order: 2
+parent: Data Sharing Plays
+nav_order: 1
 ---
+
+# Preparing a Successful Data Request
 
 The steps below are best practices for making data requests. Data owners are frequently overburdened with daily operations. You can make it as easy as possible for them to fulfill your request by planning carefully and addressing all of the relevant questions up front.
 

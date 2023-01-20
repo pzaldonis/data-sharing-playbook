@@ -1,8 +1,11 @@
 ---
 layout: page
-title: 'Linking Datasets'
-nav_order: 6
+title: Linking Datasets
+parent: Data Sharing Resources
+nav_order: 1
 ---
+
+# Linking Datasets
 
 Data linking or data matching is the process of combining two or more datasets. It allows program administrations to provide more integrated and client-friendly government services.
 

@@ -1,8 +1,11 @@
 ---
 layout: page
 title: Enabling Data Sharing
+parent: Data Sharing Plays
 nav_order: 2
 ---
+
+# Enabling Data Sharing
 
 The steps below are best practices for agencies to develop an efficient data sharing process.
 

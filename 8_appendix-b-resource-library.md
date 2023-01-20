@@ -1,8 +1,12 @@
 ---
 layout: page
-title: 'Appendix B: Resource Library'
-nav_order: 8
+title: Resource Library
+parent: Data Sharing Resources
+nav_order: 3
 ---
+
+# Resource Library 
+
 This page highlights resources from different organizations about data sharing and related topics.
 
 ## Preparing a Successful Data Request

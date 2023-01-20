@@ -1,8 +1,11 @@
 ---
 layout: page
 title: Safeguarding Data
+parent: Data Sharing Plays
 nav_order: 4
 ---
+
+# Safeguarding Data
 
 The steps below are best practices for protecting the security of data maintained by your agency. 
 
