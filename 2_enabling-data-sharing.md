@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Enabling Data Sharing
-permalink: /enabling-data-sharing/
-nav: true
-weight: 2
+nav_order: 2
 ---
 
 The steps below are best practices for agencies to develop an efficient data sharing process.

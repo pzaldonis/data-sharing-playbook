@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Transferring Data
-permalink: /transferring-data/
-nav: true
-weight: 5
+nav_order: 5
 ---
 
 This section will give an overview of the steps involved in transferring data as part of a data request. 

@@ -1,9 +1,7 @@
 ---
 layout: page
 title: 'Appendix B: Resource Library'
-permalink: /linking-datasets/
-nav: true
-weight: 8
+nav_order: 8
 ---
 This page highlights resources from different organizations about data sharing and related topics.
 

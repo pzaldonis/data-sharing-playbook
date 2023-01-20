@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Safeguarding Data
-permalink: /safeguarding-data/
-nav: true
-weight: 4
+nav_order: 4
 ---
 
 The steps below are best practices for protecting the security of data maintained by your agency. 

@@ -1,4 +1,0 @@
----
-layout: print
-title: Print
----

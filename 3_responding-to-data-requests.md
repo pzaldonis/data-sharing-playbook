@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Responding to Data Requests
-permalink: /responding-to-data-requests/
-nav: true
-weight: 3
+nav_order: 3
 ---
 
 Having an established protocol for responding to a request for data will save you time and effort (see [Develop a data request process](/data-sharing-playbook/enabling-data-sharing/#develop-a-data-request-process)). The following suggestions will help you respond smoothly to different types of requests.
