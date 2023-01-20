@@ -60,8 +60,8 @@ If you represent an agency who receives data requests, the sections below descri
 
 To learn about transferring data or linking data from different sources, refer to these strategies:
  * [Transferring data](/data-sharing-playbook/transferring-data)
- * [Linking datasets](/data-sharing-playbook/linking-datasests)
- * [Transferring and linking data through P20 WIN](/data-sharing-playbook/linking-datasests.html#transferring-and-linking-data-in-p20-win)
+ * [Linking datasets](/data-sharing-playbook/linking-datasets)
+ * [Transferring and linking data through P20 WIN](/data-sharing-playbook/linking-datasets.html#transferring-and-linking-data-in-p20-win)
 
 ## About the data sharing playbook
 
