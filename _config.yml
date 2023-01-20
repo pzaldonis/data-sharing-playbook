@@ -28,6 +28,9 @@ remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-default-layout
 
+aux_links: # remove if you don't want this link to appear on your pages
+  Github Repository: https://github.com/ctopendata/open-data-handbook
+
 favicon_ico: "/assets/favicon.ico"
 
 search_enabled: true

@@ -4,6 +4,8 @@ title: Introduction
 nav_order: 1
 ---
 
+# Introduction
+
 The Data Sharing Playbook is a resource for those navigating the data sharing process in Connecticut state government. The playbook presents strategies for enabling data sharing, making data requests, responding to requests, and transferring and linking data. 
 
 ## Data sharing in Connecticut 
