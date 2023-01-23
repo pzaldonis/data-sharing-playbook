@@ -35,8 +35,6 @@ favicon_ico: "/assets/favicon.ico"
 
 search_enabled: true
 
-color_scheme: brand_colors
-
 callouts:
   note:
     color: blue
